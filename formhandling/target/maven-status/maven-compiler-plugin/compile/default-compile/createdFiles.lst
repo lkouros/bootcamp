@@ -1,0 +1,6 @@
+com/candidjava/spring/bean/User.class
+com/candidjava/spring/controller/UserController.class
+com/candidjava/spring/controller/MessageController.class
+com/candidjava/spring/configuration/SpringConfiguration.class
+com/candidjava/spring/configuration/SpringWebIntializer.class
+com/candidjava/spring/bean/Message.class
